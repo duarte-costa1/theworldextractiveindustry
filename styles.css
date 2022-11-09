@@ -220,6 +220,7 @@ body {
 /*Title section*/
 
 .hero {
+    justify-content: center;
     display: flex;
     width: 100%;
     height: 100vh;
@@ -243,6 +244,7 @@ body {
 }
 
 .main1 {
+    justify-content: center;
     font-size: 80px;
     color: red;
     margin: 0;
@@ -252,6 +254,7 @@ body {
 }
 
 .main2 {
+    justify-content: center;
     font-size: 80px;
     color: red;
     margin: 0;
